@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jarrett <h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+  <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home lab](https://github.com/jarrettcybertest/LABURL)
   
